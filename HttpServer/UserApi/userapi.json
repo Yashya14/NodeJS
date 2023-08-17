@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1",
+        "name": "yash pal",
+        "username": "yashya",
+        "email": "yashya@gmail.com",
+        "address": {
+            "city": "nagpur",
+            "state": "maharashtra",
+            "country": "india"
+        },
+        "phone": "672347287623"
+    },
+    {
+        "id": "2",
+        "name": "shyam naik",
+        "username": "shamu",
+        "email": "sham@gmail.com",
+        "address": {
+            "city": "mumbai",
+            "state": "maharashtra",
+            "country": "india"
+        },
+        "phone": "689287623"
+    },
+    {
+        "id": "3",
+        "name": "james bond",
+        "username": "james",
+        "email": "james@gmail.com",
+        "address": {
+            "city": "pune",
+            "state": "maharashtra",
+            "country": "india"
+        },
+        "phone": "8838234824"
+    }
+
+]

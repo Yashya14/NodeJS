@@ -1,0 +1,15 @@
+{
+  "name": "npmmod",
+  "version": "1.0.0",
+  "description": "This is NodeJs Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
+  },
+  "author": "yash pal",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
